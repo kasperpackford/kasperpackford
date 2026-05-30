@@ -38,6 +38,11 @@ Currently studying for my **CompTIA A+**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=flat-square&logo=windows&logoColor=white)
  
 **Currently learning**
 <br>
@@ -49,6 +54,5 @@ Currently studying for my **CompTIA A+**.
 
 ## 📈 Github Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kasperpackford&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=0ea5e9&title_color=0ea5e9" width="46%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasperpackford&theme=tokyonight&hide_border=true&background=00000000&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" width="46%"/>
 </div>
