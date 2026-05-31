@@ -15,7 +15,7 @@
 </div>
 ---
  
-## 🐧 Who I Am
+## 🐧 About
  
 Computer Programming graduate (**Dean's Honours, Algonquin College**), working my way into tech. The way I learn is by building; most of what I know comes from running my own infrastructure, breaking it, and figuring out how to fix it properly.
  
